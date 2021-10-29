@@ -4,8 +4,10 @@ using System.Collections.Generic;
 namespace ContosoUniversity.Models
 {
     /// <summary>
-    /// 
+    /// This respresents a student and their details
+    /// Author: Kayley Syrett
     /// </summary>
+
     public class Student
     {
         //Primary Key

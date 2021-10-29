@@ -5,7 +5,8 @@
         A, B, C, D, F
     }
     /// <summary>
-    /// 
+    /// This respresents a student enrolled on a course
+    /// Author: Kayley Syrett
     /// </summary>
     public class Enrollment
     {
